@@ -1,5 +1,5 @@
 {
-  "name": "vendease-api",
+  "name": "vendease-platform-api-testing",
   "version": "1.0.0",
   "description": "API testing for Vendease recruiting",
   "main": "''",
@@ -9,6 +9,7 @@
   "author": "Dahunsi Fehintoluwa",
   "license": "ISC",
   "dependencies": {
+    "ajv": "^8.12.0",
     "chai": "^4.3.10",
     "mocha": "^10.2.0",
     "supertest": "^6.3.3"
